@@ -1,0 +1,23 @@
+{
+ 
+    "name": "InstaIt",
+     
+    "description": "Open the given user in Instagram",
+     
+    "version": "0.1",
+     
+    "permissions": ["contextMenus"],
+     
+    "background": {
+     
+    "scripts": ["app.js"]
+     
+    },
+     
+    "icons" : {
+         
+    },
+     
+    "manifest_version": 2
+     
+    }
