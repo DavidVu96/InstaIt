@@ -4,7 +4,7 @@
      
     "description": "Open the given user in Instagram",
      
-    "version": "0.1",
+    "version": "0.2",
      
     "permissions": ["contextMenus"],
      
@@ -15,7 +15,15 @@
     },
      
     "icons" : {
-         
+     
+    "16" : "instait.png",
+     
+    "32" : "instait.png",
+     
+    "48" : "instait.png",
+     
+    "128" : "instait.png"
+     
     },
      
     "manifest_version": 2
