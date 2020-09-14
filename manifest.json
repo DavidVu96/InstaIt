@@ -4,7 +4,7 @@
      
     "description": "Open the given user in Instagram",
      
-    "version": "0.2",
+    "version": "1.0",
      
     "permissions": ["contextMenus"],
      
